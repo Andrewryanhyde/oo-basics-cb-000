@@ -5,11 +5,11 @@ class Shoe
     @brand = brand
   end
 
-  def cobble 
+  def cobble
     puts shoe.condition
   end
 
 
-  
+
 
 end
